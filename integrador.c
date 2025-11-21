@@ -1,3 +1,5 @@
+//https://github.com/Lorennn0/tpfinal/edit/main/integrador.c#L1C0
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
